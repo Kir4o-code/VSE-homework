@@ -15,6 +15,6 @@ for grade in grades:
         fail.append(grade)
 
 print(f"The excellent grades are {excellent}.")
-print(f"The excellent grades are {good}.")
-print(f"The excellent grades are {passs}.")
-print(f"The excellent grades are {fail}.")
+print(f"The good grades are {good}.")
+print(f"The passing grades are {passs}.")
+print(f"The failing grades are {fail}.")
